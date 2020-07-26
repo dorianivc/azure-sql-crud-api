@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/726e26b3-3fba-44a5-b522-841a56460cfe/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/azure-sql-contacts-dorian",
+    "appService.deploySubpath": "AzureSQL_API\\publish"
+}

@@ -4,4 +4,3 @@ This API is very simple, you can use the CRUD operations with the respective HTT
 You can visit this API here(GET all): https://azure-sql-contacts-dorian.azurewebsites.net/api/Contact/
 
 
-# azure-sql-crud-api
